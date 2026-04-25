@@ -3,7 +3,7 @@
 Password Strength Analyzer with Custom Wordlist Generator
 A comprehensive tool for analyzing password strength and generating custom wordlists
 """
-
+# Developed By Amishck
 import argparse
 import re
 import math
